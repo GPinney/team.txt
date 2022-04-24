@@ -1,0 +1,2 @@
+insert random sport teams
+go sports
